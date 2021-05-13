@@ -1,7 +1,8 @@
 - 👋 Hi, I’m Kevin Paul Rojas
 - 💛💙❤ I’m from Ecuador
 - 👀 I’m interested in electronics, embedded and firmware engineering
-- 🌱 I’m currently learning firmware and assembler for PIC mocrocontrollers.
+- 🌱 I’m currently learning firmware and assembler for PIC mocrocontrollers and intel microprocessors
+- 🤖 I am currently working on the development of drivers for intel microprocessors
 - 📫 You can reach me in whatsapp ( +593 995 015 706 ) or sending a mail to automatikrecuador@gmail.com
 
 <!---
