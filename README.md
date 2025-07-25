@@ -1,8 +1,7 @@
 - 👋 Hi, I’m Kevin Paul Rojas
 - 💛💙❤ I’m from Ecuador
 - 👀 I’m interested in electronics, embedded and firmware engineering
-- 🌱 I’m currently learning firmware and assembler for PIC microcontrollers and intel microprocessors
-- 🤖 I am currently working on the development of drivers for intel microprocessors
+- 🌱 I’m currently working on IOT systems with flutter and embedded firmware devices.
 - 📫 You can reach me in whatsapp ( +593 995 015 706 ) or sending a mail to nommadaingenieria@gmail.com
 
 <!---
